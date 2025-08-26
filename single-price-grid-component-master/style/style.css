@@ -1,0 +1,22 @@
+/*
+parametros: 
+- Mobile: 375px
+- Desktop: 1440px
+*/
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /*criando variaveis de cor, e para usar basta inserir da seguinte forma: var(--text-color)*/
+    --teal500-color: hsl(179, 62%, 43%);
+    --green400-color: hsl(71, 73%, 54%);
+    --teal100-color: hsl(204, 43%, 93%);
+    --gray500-color: hsl(218, 22%, 67%);
+}
+/*Importando fonte do google fonts
+font-family: "Karla", sans-serif;
+*/
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
