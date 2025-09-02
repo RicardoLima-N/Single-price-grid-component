@@ -16,7 +16,7 @@ body {
     height: 100vh;
     position: relative;
 }
-
+/* nem todas as cores foram disponibilizadas no style guide*/
 :root {
     /*criando variaveis de cor, e para usar basta inserir da seguinte forma: var(--text-color)*/
     --teal500-color: hsl(179, 62%, 43%);
