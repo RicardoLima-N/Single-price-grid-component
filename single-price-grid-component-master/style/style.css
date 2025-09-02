@@ -12,7 +12,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: "Karla", sans-serif;
-    background-color:rgb(136, 136, 136);
+    background-color:rgb(136, 136, 136);/*cor apenas para distinguir bg do body e da div*/
     height: 100vh;
     position: relative;
 }
