@@ -15,7 +15,10 @@ body {
     background-color:rgb(136, 136, 136);/*cor apenas para distinguir bg do body e da div*/
     height: 100vh;
     width: 100%;
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 /* nem todas as cores foram disponibilizadas no style guide*/
 :root {
